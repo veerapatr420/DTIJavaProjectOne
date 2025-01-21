@@ -17,7 +17,7 @@ public class MyClass01 {
 
     }
 
-    private static void met1() {
+    public static void met1() {
     }
 
     public static void met2(String[] args) {
